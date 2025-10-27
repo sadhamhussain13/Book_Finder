@@ -21,6 +21,11 @@ A minimal and responsive Book Finder web application built as a take-home challe
 * **Data Storage:** `localStorage` for favorites
 * **Build Tool:** Vite
 
+## Preview
+
+<img width="1857" height="907" alt="image" src="https://github.com/user-attachments/assets/624d0097-ed7f-4318-a56d-ab602b1ac064" />
+
+
 ## 🚀 Project Setup & How to Run Locally
 
 This project is structured for a standard Vite React (JavaScript) setup.
